@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @n1acer745
+- 👀 I’m interested in Data analyst   
+- 🌱 I’m currently learning Jupyter & power Bi & Python & R 
